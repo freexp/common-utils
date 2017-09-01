@@ -1,4 +1,4 @@
-package com.jidian001.utils;
+package com.commonutis.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
